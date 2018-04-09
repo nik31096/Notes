@@ -1,0 +1,42 @@
+body {
+  background-color: #5A575B;
+}
+#title {
+    background-color: #BBBBBB;
+    text-decoration: underline;
+    text-align: center;
+    color: #6E188B;
+    font-family: "Times New Roman"; 
+    font-size: larger;
+    border-radius: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px solid white;
+}
+.input {
+    background-color: #CE5A27;
+    color: white;
+    border-radius: 30px;
+}
+#form {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: #7C7F8D;
+    border-radius: 70px;
+    border: 5px solid black;
+}
+.end {
+    text-align: center;
+    /*background-color: ;*/
+    color: #0831F7;
+    font-size: large;
+    font-family: "Times New Roman";
+}
+.text {
+    color: white;
+    float: center;
+}
+
+
+
